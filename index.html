@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles.css">
+    <title>Shapes Exercise</title>
+    
+</head>
+<body>
+    <h1>Shapes Exercise</h1>
+    <p>Pasa el cursor encima de las figuras</p>
+    <p>Haz click sobre ellas para que desaparezcan </p>
+    <p>Haz click en el botón "Reset" para que vuelvan a aparecer</p>
+        <div class="figuras">
+            <div onclick="ocultar1()" id="obj1" class="triangulo"></div>
+            <div onclick="ocultar2()" id="obj2" class="cuadrado"></div>
+            <div onclick="ocultar3()" id="obj3" class="circulo"></div>
+        </div>
+        <p><button onclick="reset()" id="reset-btn" type="reset">Reset</button></p>
+    <script src="/app.js"></script>
+</body>
+</html>
