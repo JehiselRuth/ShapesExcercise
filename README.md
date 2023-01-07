@@ -5,7 +5,7 @@
 
 https://www.figma.com/file/MDOOB6AuDlls68ru7hNLlM/Shapes-Exercise?node-id=0%3A1 
 
-![Shapes](https://user-images.githubusercontent.com/117633735/211161016-e1956180-f61c-4dd5-b2da-41cbe91f5ba9.png)
+![Shapes](https://user-images.githubusercontent.com/117633735/211161123-eacf1d6b-9ace-4007-8b8b-94901588fcd4.png)
 
 
 1. El conjunto de los elementos deberá estar centrado en el body tanto horizontalmente como verticalmente
