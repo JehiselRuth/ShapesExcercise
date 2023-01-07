@@ -5,7 +5,8 @@
 
 https://www.figma.com/file/MDOOB6AuDlls68ru7hNLlM/Shapes-Exercise?node-id=0%3A1 
 
-Requisito:![ShapesExcercises](https://user-images.githubusercontent.com/117633735/211160938-00db14cc-83f1-4f05-922c-d417ab15df6f.png)
+![Shapes](https://user-images.githubusercontent.com/117633735/211161016-e1956180-f61c-4dd5-b2da-41cbe91f5ba9.png)
+
 
 1. El conjunto de los elementos deberá estar centrado en el body tanto horizontalmente como verticalmente
 2. Al pasar el ratón encima de las figuras deben cambiar de color y moverse un poco hacia arriba
